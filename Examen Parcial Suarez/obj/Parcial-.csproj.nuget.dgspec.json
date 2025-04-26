@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LUIS SUAREZ RAMOS\\Downloads\\Parcial--main\\Parcial-.csproj": {}
+    "D:\\Examen Parcial Suarez\\Parcial-.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LUIS SUAREZ RAMOS\\Downloads\\Parcial--main\\Parcial-.csproj": {
+    "D:\\Examen Parcial Suarez\\Parcial-.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LUIS SUAREZ RAMOS\\Downloads\\Parcial--main\\Parcial-.csproj",
+        "projectUniqueName": "D:\\Examen Parcial Suarez\\Parcial-.csproj",
         "projectName": "Parcial-",
-        "projectPath": "C:\\Users\\LUIS SUAREZ RAMOS\\Downloads\\Parcial--main\\Parcial-.csproj",
+        "projectPath": "D:\\Examen Parcial Suarez\\Parcial-.csproj",
         "packagesPath": "C:\\Users\\LUIS SUAREZ RAMOS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LUIS SUAREZ RAMOS\\Downloads\\Parcial--main\\obj\\",
+        "outputPath": "D:\\Examen Parcial Suarez\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
